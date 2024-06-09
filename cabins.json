@@ -1,0 +1,28 @@
+[
+    {
+      "cabin_name": "Deluxe Suite",
+      "cabin_number": "A1",
+      "deck": "A"
+    },
+    {
+      "cabin_name": "Ocean View",
+      "cabin_number": "B2",
+      "deck": "B"
+    },
+    {
+      "cabin_name": "Interior Room",
+      "cabin_number": "C3",
+      "deck": "C"
+    },
+    {
+      "cabin_name": "Family Suite",
+      "cabin_number": "D4",
+      "deck": "D"
+    },
+    {
+      "cabin_name": "Single Room",
+      "cabin_number": "E5",
+      "deck": "E"
+    }
+  ]
+  
