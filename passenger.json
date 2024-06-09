@@ -1,0 +1,99 @@
+[{
+    "cabinId": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "male",
+    "age": 30,
+    "survived": true,
+    "SibSp": 0,
+    "ParCh": 0,
+    "family_size": 1,
+    "embarking_port": "S",
+    "tickets": {
+      "ticket_code": "A12345",
+      "Pclass": "1",
+      "boarding_port": "S",
+      "destination_port": "C",
+      "ticket_count": 1,
+      "fare": 72.50,
+      "purchase_date": { "$date": "1912-04-10T00:00:00Z" }
+    },
+    "addresses": {
+      "street": "123 Main St",
+      "postal_code": "12345",
+      "town": "Springfield",
+      "country_name": "USA",
+      "state": "IL"
+    },
+    "pClass": {
+      "pClass": 1,
+      "description": "First Class"
+    }
+  },
+  {
+    "cabinId": 3,
+    "first_name": "Emily",
+    "last_name": "Johnson",
+    "gender": "female",
+    "age": 40,
+    "survived": true,
+    "SibSp": 1,
+    "ParCh": 2,
+    "family_size": 4,
+    "embarking_port": "Q",
+    "tickets": {
+      "ticket_code": "C34567",
+      "Pclass": "3",
+      "boarding_port": "Q",
+      "destination_port": "S",
+      "ticket_count": 4,
+      "fare": 30.00,
+      "purchase_date": { "$date": "1912-04-10T00:00:00Z" }
+    },
+    "addresses": {
+      "street": "789 Maple St",
+      "postal_code": "54321",
+      "town": "Fairview",
+      "country_name": "USA",
+      "state": "CA"
+    },
+    "pClass": {
+      "pClass": 3,
+      "description": "Third Class"
+    }
+  },
+  {
+    "cabinId": 4,
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "gender": "male",
+    "age": 50,
+    "survived": false,
+    "SibSp": 1,
+    "ParCh": 1,
+    "family_size": 3,
+    "embarking_port": "S",
+    "tickets": {
+      "ticket_code": "D89101",
+      "Pclass": "2",
+      "boarding_port": "S",
+      "destination_port": "Q",
+      "ticket_count": 3,
+      "fare": 45.50,
+      "purchase_date": { "$date": "1912-04-10T00:00:00Z" }
+    },
+    "addresses": {
+      "street": "1010 Birch St",
+      "postal_code": "11223",
+      "town": "Mapleton",
+      "country_name": "USA",
+      "state": "NY"
+    },
+    "pClass": {
+      "pClass": 2,
+      "description": "Second Class"
+    }
+  }
+  
+  
+  ]
