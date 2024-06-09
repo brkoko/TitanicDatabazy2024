@@ -1,0 +1,66 @@
+[
+    {
+      "survivors_count": 25,
+      "capacity": 30,
+      "launch_time": { "$date": "1912-04-15T02:00:00Z" },
+      "crew": [
+        {
+          "first_name": "Edward",
+          "last_name": "Smith",
+          "role": "Captain",
+          "cabin_id": 1
+        },
+        {
+          "first_name": "Harold",
+          "last_name": "Lowe",
+          "role": "Officer",
+          "cabin_id": 2
+        },
+        {
+          "first_name": "Henry",
+          "last_name": "Wilde",
+          "role": "Officer",
+          "cabin_id": 3
+        }
+      ]
+    },
+    {
+      "survivors_count": 20,
+      "capacity": 30,
+      "launch_time": { "$date": "1912-04-15T01:45:00Z" },
+      "crew": [
+        {
+          "first_name": "Charles",
+          "last_name": "Lightoller",
+          "role": "Officer",
+          "cabin_id": 4
+        },
+        {
+          "first_name": "William",
+          "last_name": "Murdoch",
+          "role": "Officer",
+          "cabin_id": 5
+        }
+      ]
+    },
+    {
+      "survivors_count": 15,
+      "capacity": 40,
+      "launch_time": { "$date": "1912-04-15T02:10:00Z" },
+      "crew": [
+        {
+          "first_name": "James",
+          "last_name": "Moody",
+          "role": "Officer",
+          "cabin_id": 6
+        },
+        {
+          "first_name": "Joseph",
+          "last_name": "Boxhall",
+          "role": "Officer",
+          "cabin_id": 7
+        }
+      ]
+    }
+  ]
+  
